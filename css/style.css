@@ -353,6 +353,9 @@ form .fields .input-field{
     }
 }
 @media(max-width:450px){
+    .blog-link{
+        font-size: 1.1rem;
+    }
     .para{
         padding: 0 4rem;
     }
@@ -383,6 +386,12 @@ form .fields .input-field{
     .submitBtn{
         margin-top: 2rem;
     }
+    .buttons{
+        flex-direction: column;
+    }
+    .form-container{
+        width: 90%;
+    }
 }
 @media(max-width:300px){
     .logo{
@@ -395,10 +404,5 @@ form .fields .input-field{
     .para{
         font-size: 1.2rem;
     }
-    .buttons{
-        flex-direction: column;
-    }
-    .form-container{
-        width: 90%;
-    }
+
 }
