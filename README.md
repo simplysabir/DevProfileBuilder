@@ -10,7 +10,7 @@ Using this App will give you a better way to customize and truly personalize you
 
 ## How to Use
 
-Kindly Refer to this [Blog](). I've Included all of the steps.
+Kindly Refer to this [Blog](https://sabirkhan.hashnode.dev/create-an-awesome-github-profile-in-minutes). I've Included all of the steps.
 ## Contributing
 
 Contributions are always welcome!
