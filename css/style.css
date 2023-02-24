@@ -223,7 +223,11 @@ ul{
     justify-content: space-between; 
     flex-wrap: wrap;  
 }
-
+.product-hunt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .form-container form .title{
     display: block;
     margin-bottom: 8px;
