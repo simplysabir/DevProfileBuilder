@@ -227,6 +227,7 @@ ul{
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 1rem;
 }
 .form-container form .title{
     display: block;
